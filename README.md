@@ -216,7 +216,7 @@ By following these steps, you'll have Bdiarys set up on your local server and co
 
 - **Welcome Message:** Displayed to logged-in users across all pages.
 
-Great! Let's incorporate the **Features** and **Technologies Used** sections into your README. Here’s how they can be presented:
+
 
 ### Features
 
